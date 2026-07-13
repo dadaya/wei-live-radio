@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "rtmpUrl": "",
+    "streamKey": "",
+    "quality": "720p",
+    "fps": 30,
+    "videoBitrateKbps": 2500,
+    "audioBitrateKbps": 128,
+    "x264Preset": "ultrafast",
+    "backgroundVideo": "default-loop.mp4",
+    "shuffle": false
+  },
+  "playlistOrder": [
+    "demo-tone-a.mp3",
+    "demo-tone-b.mp3"
+  ],
+  "auth": {
+    "passwordHash": null,
+    "onboardingDone": false
+  }
+}
